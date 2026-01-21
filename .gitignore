@@ -50,5 +50,3 @@ workspace.json
 aichat.data.json
 composer_data.json
 
-# cursor IDE
-.cursor/
